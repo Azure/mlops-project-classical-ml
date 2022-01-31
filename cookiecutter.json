@@ -1,3 +1,6 @@
 {
-    "project_dir": "project"
+    "project_dir": "project",
+    "_copy_without_render": [
+        "*job.yaml"
+    ]
 }
