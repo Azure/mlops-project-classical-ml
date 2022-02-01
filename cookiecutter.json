@@ -1,5 +1,5 @@
 {
-    "project_dir": "project",
+    "directory": "project",
     "_copy_without_render": [
         "*job.yaml"
     ]
