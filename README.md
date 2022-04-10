@@ -9,7 +9,7 @@ The repo itself functions as a standalone entity that agnosticly holds all Azure
 
 ## 📐 Pattern Architectures: Key concepts
 
-This reposetory follows the architecture linked below:
+This repository follows the architecture linked below:
 
 | Link                                                    | AI Pattern                                                              |
 | ------------------------------------------------------- | ----------------------------------------------------------------------- |
