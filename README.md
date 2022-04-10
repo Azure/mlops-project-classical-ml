@@ -2,8 +2,23 @@
 
 # Azure MLOps (v2) Pattern: Azure Machine Learning - Classical Machine Learning
 
+This repository includes all use case specific codebase to be deployed as the inner loop for the [MLOps v2](https://github.com/Azure/mlops-v2) solution accelerator.
+
+The repo itself functions as a standalone entity that agnosticly holds all Azure Machine Learning - Classical Machine Learning requirements for this architectual pattern.
 
 
+## 📐 Pattern Architectures: Key concepts
+
+This reposetory follows the architecture linked below:
+
+| Link                                                    | AI Pattern                                                              |
+| ------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Pattern AML CML](https://github.com/Azure/mlops-v2/blob/main/documentation/architecturepattern/AzureML_CML_Architecture_v0.7.jpg) | Azure Machine Learning - Classical Machine Learning                     |
+
+
+## 👤 Getting started
+
+Please visit [MLOps v2](https://github.com/Azure/mlops-v2) for the initial deployment of this inner loop pattern.
 
 
 ## Contributing
