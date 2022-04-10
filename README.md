@@ -21,6 +21,11 @@ This repository follows the architecture linked below:
 Please visit [MLOps v2](https://github.com/Azure/mlops-v2) for the initial deployment of this inner loop pattern.
 
 
+## ‼️ Feedback or Issues
+
+Please visit [MLOps v2](https://github.com/Azure/mlops-v2) and file an **issue** or go to Microsofts internal SharePoint site to hand in any feedback.
+
+
 ## Contributing
 
 This project welcomes contributions and suggestions. To learn more visit the contributing section in the [MLOps v2](https://github.com/Azure/mlops-v2) solution accelerator.
